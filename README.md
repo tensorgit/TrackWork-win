@@ -8,8 +8,8 @@ However, its usage can go further beyond.
 How do I launch it?
 Once the zipped file is unpacked, place the folder in your desired location and simply launch the TrackWork-v1.3.exe
 
-How does it work
-*** Please hover over a button or filed with your cursor to get tooltips
+How does it work 
+(*** Please hover over a button or filed with your cursor to get tooltips ***)
 1. Setup
 - Username: The username can be changed by clicking on the username button, adding your name or alias in the appearing filed and pressing the 'Enter' keyboard key.
 There is no option to change the username once you move onto the next GUI. You will have to restart the App to change it in the Setup GUI again
