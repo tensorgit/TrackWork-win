@@ -2,14 +2,16 @@
 ## A desktop App that helps you keep a track of your time spent on projects.
 
 **What is TrackWork?**
+---
 A desktop App that helps you keep a track of your time spent on projects. It is primarily built for projects on workstations, PCs and tablets. 
 However, its usage can go further beyond.
 
 **How do I launch it?**
-----
+---
 Once the zipped file is unpacked, place the folder in your desired location and simply launch the TrackWork-v1.3.exe
 
-**How does it work** 
+**How does it work**
+---
 (*** Please hover over a button or filed with your cursor to get tooltips ***)
 1. Setup
 - Username: The username can be changed by clicking on the username button, adding your name or alias in the appearing filed and pressing the 'Enter' keyboard key.
@@ -40,6 +42,7 @@ information in a new window. Then, it closes the App
 for the current project
 
 **Things to note:**
+---
 - DO NOT delete the build folder as it contains binaries required to run the .exe which are not embedded within the .exe itself
 - Once you start using it, the content that you enter will be saved in database and shelved files in the same folder where the .exe file is located. If you delete these
 files, the stored content will be lost. You have an option of selectively deleting 'Projects' in the Setup GUI
