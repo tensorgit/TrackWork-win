@@ -13,7 +13,7 @@ Once the zipped file is unpacked, place the folder in your desired location and 
 **How does it work**
 ---
 (*** Please hover over a button or filed with your cursor to get tooltips ***)
-1. Setup
+1. **Setup**
 - Username: The username can be changed by clicking on the username button, adding your name or alias in the appearing filed and pressing the 'Enter' keyboard key.
 There is no option to change the username once you move onto the next GUI. You will have to restart the App to change it in the Setup GUI again
 - Project list: The list can be viewed in the dropdown list. By default, the first value is 'Select...'. If using the first time, you will have to add the projects you would be working on
@@ -21,7 +21,7 @@ There is no option to change the username once you move onto the next GUI. You w
 - Delete project: If you wish to delete a project, select it in the dropdown option, click on 'Delete project', then click on 'Confirm'. This will delete the selected project and update the project list instantly
 - Next: This will take you to the main TrackWork window
 
-2. TrackWork
+2. **TrackWork**
 - The Start time, Clnd. week and Start date get displayed as soon as you start using the GUI, for example by clicking the 'Play' button or pressing the ESC keyboard key
 - Select project: The project you wish to work on can be selected using the drop down. 
 - Add new project: If you have missed adding a project in the previous 'Setup' step or wish to add a new project, follow the same steps as before
