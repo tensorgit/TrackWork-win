@@ -10,7 +10,7 @@ However, its usage can go further beyond.
 ---
 Once the zipped file is unpacked, place the folder in your desired location and simply launch the TrackWork-v1.3.exe
 
-**How does it work**
+**How does it work?**
 ---
 (*** Please hover over a button or filed with your cursor to get tooltips ***)
 1. **Setup**
