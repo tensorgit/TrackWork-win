@@ -3,6 +3,8 @@
 
 <img src="images/TrackWork-v1.3-latest.JPG">
 
+Latest version: v1.3
+
 **What is TrackWork?**
 ---
 A desktop App that helps you keep a track of your time spent on projects. It is primarily built for projects on workstations, PCs and tablets. 
