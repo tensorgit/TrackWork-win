@@ -53,3 +53,9 @@ for the current project
 files, the stored content will be lost. You have an option of selectively deleting 'Projects' in the Setup GUI
 - Each time you 'End/Reset' or 'Close' a session, the session summary will be shown in a separate window as well as stored in a text file within the same folder
 - If you quit the App using the 'X' button at the top right corner, the session summary will NOT be saved
+
+**Windows may block the .exe or thinks of it as a virus application**
+It is necessary to exclude from check from all PC using that program by the following procedure:
+- Go to Start > Settings > Update & Security > Windows Security > Virus & threat protection
+- Under Virus & threat protection settings, select Manage settings, and then under Exclusions, select Add or remove exclusions
+- Select Add an exclusion, and then select from files, folders, file types, or process. The exclusion will apply to subfolders within a folder as well
