@@ -55,6 +55,7 @@ files, the stored content will be lost. You have an option of selectively deleti
 - If you quit the App using the 'X' button at the top right corner, the session summary will NOT be saved
 
 **Windows may block the .exe or thinks of it as a virus application**
+---
 It is necessary to exclude from check from all PC using that program by the following procedure:
 - Go to Start > Settings > Update & Security > Windows Security > Virus & threat protection
 - Under Virus & threat protection settings, select Manage settings, and then under Exclusions, select Add or remove exclusions
