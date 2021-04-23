@@ -13,7 +13,7 @@ However, its usage can go further beyond.
 
 **How do I launch it?**
 ---
-Once the zipped file is unpacked, place the folder in your desired location and simply launch the TrackWork-v1.3.exe
+Once the zipped file is unpacked, place the folder in your desired location and simply launch the TrackWork-v1.3.exe. Please avoid C:/Programs as it may return unexpected errors)
 
 **How does it work?**
 ---
